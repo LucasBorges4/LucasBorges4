@@ -2,6 +2,11 @@
 Meu nome é **Lucas Borges** e meu github é **@LucasBorges4**
 caso *não saiba* quem sou **eu** aqui vai um breve *resumo*.
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasBorges4&show_icons=true&theme=dark&include_all_commits=true&count_private=false">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBorges4&layout=compact&langs_count=7&theme=dark">
+</div>
+  
 - 🔭 Montando o próprio portifólio.
 - 🌱 3studando Ciência da Computação na UFV - Campus Florestal.
 - 👯 Almejo um dia participar de algum proj3to de programação contribuindo da maneira que for possível.

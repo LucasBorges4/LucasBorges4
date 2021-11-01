@@ -1,5 +1,5 @@
-# Salve, salve! 👋
-Meu nome é **Lucas Borges** e meu github é **@LucasBorges4**
+# Salve, salve! 👋 Tranquilo?
+Meu nome é **Lucas Borges** e seja bem vindo a minha página no github, 
 caso *não saiba* quem sou **eu** aqui vai um breve *resumo*.
 
 <div align="center">
@@ -12,4 +12,7 @@ caso *não saiba* quem sou **eu** aqui vai um breve *resumo*.
 - 👯 Almejo um dia participar de algum proj3to de programação contribuindo da maneira que for possível.
 - 💬 Pergunte 0 que quiser sobre m1m.
 - ⚡ Curiosidade: Gosto de *batata*.
+
+Att,
+**@LucasBorges4**.
 

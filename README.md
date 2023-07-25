@@ -2,7 +2,7 @@
 Meu nome é **Lucas Borges** e seja bem vindo a minha página no github, 
 caso *não saiba* quem sou **eu** aqui vai um breve *resumo*.
 
-https://www.codewars.com/users/LucasBorges4/badges/small
+![https://www.codewars.com/users/LucasBorges4/badges/small](https://www.codewars.com/users/LucasBorges4/badges/small)
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LucasBorges4&show_icons=true&theme=dark&include_all_commits=true&count_private=false">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasBorges4&layout=compact&langs_count=7&theme=dark">
